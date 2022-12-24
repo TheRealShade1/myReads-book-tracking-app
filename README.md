@@ -43,9 +43,6 @@ In terms of state
 UI and URL are in sync
 - Done using react-router
 
----------
-
-
 ## Installation
 
 Clone the repository, change directories, and use NPM to install the dependencies.
